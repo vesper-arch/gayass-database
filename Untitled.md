@@ -1,0 +1,3 @@
+- Have to make up some camera shoot somehow
+- Set new playlist cover on PC once I can because mobile is borked
+- Android Command Palette idea? 
