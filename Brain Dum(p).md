@@ -1,0 +1,5 @@
+- Set new playlist cover on PC once I can because mobile is borked
+- [[Art Routine]]
+- [[App Idea Dump]]
+- [[Stardew Valley Mod Manager]]
+- 
