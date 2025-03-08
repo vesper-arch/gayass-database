@@ -2,7 +2,7 @@
 
 ---
 For dealing with errors in a language like C that has none of the quality of life features of high level languages such as Python or JavaScript, a debugger will save your goddamn life.
-Say if you are trying to deal with the infamous `segmentation fault` (for explanation of what that is go here [[What even is a segfault?]]). If you do not have a debugger, this error bluntly shows up as this:
+Say if you are trying to deal with the infamous `segmentation fault` (for explanation of what that is go here [[Segfaults]]). If you do not have a debugger, this error bluntly shows up as this:
 ```
 > clang main.c -o myprogram
 > myprogram

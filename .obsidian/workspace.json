@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Runtime Bounds Checking in C.md",
+                "file": "Segfaults.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Runtime Bounds Checking in C"
+              "title": "Segfaults"
             }
           }
         ]
@@ -170,12 +170,12 @@
   },
   "active": "599396292356ef94",
   "lastOpenFiles": [
-    "How to deal with memory corruption using ASan.md",
     "Runtime Bounds Checking in C.md",
+    "How to deal with memory corruption using ASan.md",
     "Getting Started With C.md",
     "Debuggers.md",
     "Unity Build Strategy.md",
-    "What even is a segfault?.md",
+    "Segfaults.md",
     "Useful Compiler Flags.md",
     "Images/Unity Build Diagram.png",
     "Images/Segmentation Fault Diagram.png",
